@@ -1,0 +1,15 @@
+*.exe
+*.out
+*.o
+*.class
+*.log
+*.zip
+*.rar
+*.7z
+*.mp4
+*.jpg
+*.png
+build/
+Debug/
+Release/
+snapshots/
